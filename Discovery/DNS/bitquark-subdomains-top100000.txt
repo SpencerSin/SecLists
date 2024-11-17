@@ -604,7 +604,6 @@ pt
 irc
 posta
 ns5
-jx
 catalog
 securemail
 ww2
